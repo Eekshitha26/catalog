@@ -1,0 +1,5 @@
+{
+  "secret": "Hello, World!",
+  "threshold": 3,
+  "numShares": 5
+}
